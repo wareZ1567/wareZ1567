@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wareZ1567
+- 👋 Hi!
 - 👀 I’m interested in Golang.
 - 🌱 I’m currently learning different programming languages.
 - 💞️ I’m looking to collaborate on good company.
