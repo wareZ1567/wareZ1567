@@ -1,7 +1,7 @@
 - 👋 Hi!
 - 👀 I’m interested in Golang.
 - 🌱 I’m currently learning different programming languages.
-- 💞️ I’m looking to collaborate on good company.
+
 
 <!---
 wareZ1567/wareZ1567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
